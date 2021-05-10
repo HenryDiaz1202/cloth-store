@@ -1,0 +1,13 @@
+{
+    "name": "faruck/venta",
+    "description": "ventas",
+    "require": {
+        "phroute/phroute": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "HenryDiaz1202",
+            "email": "henrydiaz1202@gmail.com"
+        }
+    ]
+}
